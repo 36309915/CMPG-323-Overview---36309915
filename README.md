@@ -23,10 +23,10 @@ This is a overview repository for the Portfolio of Evidence we need to submit at
        This Repository will be named: CMPG-323-EXAM(POE)-36309915
 
 
-# CMPG 323 - SPEC & REQUIREMENTS FOR PORTFOLIO OF EVIDENCE (POE) EXAM
+# CMPG 323 - SPEC & REQUIREMENTS - PORTFOLIO OF EVIDENCE (POE) EXAM
 ```mermaid
 journey
-	title Portfolio of evidence plan
+	title Portfolio of evidence execution plan
 	section Project 1 - Deadline 18 August 2022
 		Create and Configure GitHub Repository: 1: Me
 		Add a ReadME.md file to the repository: 2: Me
