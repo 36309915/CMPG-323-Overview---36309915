@@ -54,7 +54,7 @@ According to my research, there are 4 main types of branching strategies:
 Because we are doing agile & scrum, and user-stories is very popular using this methodology - I have decided on using Story/Task Branching for my git project.
 
 I will therefore have 4 main braches per Repository:
-	1. Story XYZ - this will be the first branch used when writing code. All code will first be pushed in here.
-	2. Integration - this branch will be for code that has passed all tests and are ready to be pushed to QA
-	3. QA - This is code that have passed the QA stage and is ready to be pushed to staging
-	4. Staging - This code is ready to be pushed to production.
+1. Story XYZ - this will be the first branch used when writing code. All code will first be pushed in here.
+2. Integration - this branch will be for code that has passed all tests and are ready to be pushed to QA
+3. QA - This is code that have passed the QA stage and is ready to be pushed to staging
+4. Staging - This code is ready to be pushed to production.
