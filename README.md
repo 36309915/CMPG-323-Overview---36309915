@@ -103,8 +103,8 @@ I will then also create a security.md file in my repository that will have the p
 
 # SOURCES
 
-https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/
-https://www.agileconnection.com/article/picking-right-branch-merge-strategy
-https://www.pluralsight.com/guides/how-to-use-gitignore-file
-https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
-https://withblue.ink/2021/05/07/storing-secrets-and-passwords-in-git-is-bad.html
+1. https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/
+2. https://www.agileconnection.com/article/picking-right-branch-merge-strategy
+3. https://www.pluralsight.com/guides/how-to-use-gitignore-file
+4. https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
+5. https://withblue.ink/2021/05/07/storing-secrets-and-passwords-in-git-is-bad.html
