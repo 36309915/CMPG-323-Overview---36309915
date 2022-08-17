@@ -44,11 +44,12 @@ journey
 
 # BRANCHING
 
-According to my research, there are 4 main types of branching strategies.
-	1. Trunk Based Development
-	2. Release Branching
-	3. Feature Branching
-	4. Story or Task Branching
+According to my research, there are 4 main types of branching strategies:
+
+1. Trunk Based Development
+2. Release Branching
+3. Feature Branching
+4. Story or Task Branching
 	
 Because we are doing agile & scrum, and user-stories is very popular using this methodology - I have decided on using Story/Task Branching for my git project.
 
