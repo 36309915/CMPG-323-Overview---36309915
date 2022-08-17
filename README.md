@@ -58,3 +58,17 @@ I will therefore have 4 main braches per Repository:
 2. Integration - this branch will be for code that has passed all tests and are ready to be pushed to QA
 3. QA - This is code that have passed the QA stage and is ready to be pushed to staging
 4. Staging - This code is ready to be pushed to production.
+
+# .GITIGNORE FILE
+
+In the gitignore file, you put all the files you want to omit when comitting/pushing to git. 
+
+This includes files like:
+1. Log files
+2. Files with sensitive information like API keys/credentials
+3. System generated files like dist folders
+4. dependencies that can be downloaded from package manager
+
+In order to ensure that the person cloning your repository knows which dependancies to download, i will include a requirements.txt file with all required packages on. 
+
+
