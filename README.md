@@ -71,4 +71,40 @@ This includes files like:
 
 In order to ensure that the person cloning your repository knows which dependancies to download, i will include a requirements.txt file with all required packages on. 
 
+# STORAGE OF CREDENTIALS AND SENSITIVE INFORMATION
 
+According to Spectral, the following is best practises to keep in mind when dealing with sensitive information:
+
+1. Never store credentials and sensitive data on GitHub
+2. Disable forking
+3. Disable visibility changes
+4. Validate your GitHub applications
+5. Enforce 2-factor authentication
+6. Implement SSO (GitHub enterprise only)
+7. Limit access to allowed IP addresses
+8. Tightly manage external contributor permissions
+9. Revoke permissions in a timely manner
+10. Require commit signing
+11. Enforce code review before commit
+12. Add a Security.md file
+13. Rotate SSH keys and Personal Access Tokens
+14. Audit all code uploaded to GitHub
+15. Review your Github audit logs for suspicious activity
+16. Enable alerts for vulnerable dependencies
+17. Employ automated secret scanning at pre-commit
+18. Clear your GitHub history
+19. Enable git branch protection
+20. Add sensitive files to .gitignore
+21. Employ a “secrets vault” service
+
+After researching this, I think I will have environment variables for all sensitive information in my project. 
+
+I will then also create a security.md file in my repository that will have the process description and config files forming part of the project that will setup everything correctly. When using docker containers, you can also store the environment variables easily inside the container, without giving access away.
+
+# SOURCES
+
+https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/
+https://www.agileconnection.com/article/picking-right-branch-merge-strategy
+https://www.pluralsight.com/guides/how-to-use-gitignore-file
+https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
+https://withblue.ink/2021/05/07/storing-secrets-and-passwords-in-git-is-bad.html
