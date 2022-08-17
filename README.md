@@ -2,24 +2,24 @@
 Repository for CMPG323 - 36309915
 This is a overview repository for the Portfolio of Evidence we need to submit at the end of the semester for CMPG 323
 
-##The following five repositories will be created: 
+## The following five repositories will be created: 
 
-###1. Project 1: – Agile & Scrum
+### 1. Project 1: – Agile & Scrum
       This Repository will be named: CMPG-323-Project1-36309915
 
-###2.  Project 2: – API
+### 2.  Project 2: – API
        This Repository will be named: CMPG-323-Project2-36309915
 
-###3.  Project 3: – Standards and Good Practices: Web Application
+### 3.  Project 3: – Standards and Good Practices: Web Application
        This Repository will be named: CMPG-323-Project3-36309915
  
-###4.  Project 4: – RPA & Testing
+### 4.  Project 4: – RPA & Testing
        This Repository will be named: CMPG-323-Project4-36309915
 
-###5.  Project 5: – Reporting & Monitoring
+### 5.  Project 5: – Reporting & Monitoring
        This Repository will be named: CMPG-323-Project5-36309915
 
-###6.  EXAM(POE): – Proof of Evidence
+### 6.  EXAM(POE): – Proof of Evidence
        This Repository will be named: CMPG-323-EXAM(POE)-36309915
 
 
@@ -42,7 +42,7 @@ journey
 ```
 
 
-#BRANCHING
+# BRANCHING
 
 According to my research, there are 4 main types of branching strategies.
 	1. Trunk Based Development
