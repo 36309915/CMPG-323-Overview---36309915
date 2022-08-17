@@ -1,20 +1,43 @@
 # CMPG323 - Overview - 36309915
 Repository for CMPG323 - 36309915
+This is a overview repository for the Portfolio of Evidence we need to submit at the end of the semester for CMPG 323
 
-## Project 1: – Agile & Scrum
+##The following five repositories will be created: 
 
+###1. Project 1: – Agile & Scrum
+      This Repository will be named: CMPG-323-Project1-36309915
 
-## Project 2: – API
+###2.  Project 2: – API
+       This Repository will be named: CMPG-323-Project2-36309915
 
-
-## Project 3: – Standards and Good Practices: Web Application
-
+###3.  Project 3: – Standards and Good Practices: Web Application
+       This Repository will be named: CMPG-323-Project3-36309915
  
-## Project 4: – RPA & Testing
+###4.  Project 4: – RPA & Testing
+       This Repository will be named: CMPG-323-Project4-36309915
+
+###5.  Project 5: – Reporting & Monitoring
+       This Repository will be named: CMPG-323-Project5-36309915
+
+###6.  EXAM(POE): – Proof of Evidence
+       This Repository will be named: CMPG-323-EXAM(POE)-36309915
 
 
-## Project 5: – Reporting & Monitoring
 
+```mermaid
+journey
+	title CMPG 323 - SPEC & REQUIREMENTS FOR PORTFOLIO OF EVIDENCE (POE) EXAM
+	section Project 1 - Deadline 18 August 2022
+		Create and Configure GitHub Repository: 1: Me
+		Add a ReadME.md file to the repository: 2: Me
+	 Create and configure GitHub project: 3: Me
+  Create and populate project views: 4: Me
+  Create and configure project charts: 5: Me
+	section Project 2 - Deadline 8 September 2022
+	section Project 3 - Deadline 29 September 2022
+ section Project 4 - Deadline 20 October 2022
+ section Project 5 - Deadline 3 November 2022
+ section Project 6 - EXAM (POE) - Deadline 18 November 2022
 
-## EXAM(POE): – Proof of Evidence
+```
 
